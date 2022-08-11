@@ -19,26 +19,29 @@ I like to learn and try out new things.
 
 <h1>Skills</h1>
 <h2> Languages</h2>
-<img src="images/java.svg" width="30"/>
-<img src="images/cpp.svg" width="30"/>
-<img src="images/cs.svg" width="30"/>
-<img src="images/js.svg" width="30"/>
-<img src="images/ts.svg" width="30"/>
-<img src="images/php.svg" width="30"/>
-
+<div style="display: flex; padding: 10px 0; ">
+    <img src="images/java.svg" width="30"/>
+    <img src="images/cpp.svg" width="30"/>
+    <img src="images/cs.svg" width="30"/>
+    <img src="images/js.svg" width="30"/>
+    <img src="images/ts.svg" width="30"/>
+    <img src="images/php.svg" width="30"/>
+</div>
 
 
 
 <h2>Frameworks</h2>
 <div style="display: flex; padding: 10px 0">
-<img src="images/react.svg" width="30"/>
-<img src="images/net.svg" width="30"/>
-<img src="images/vue.svg" width="30"/>
-<img src="images/qt.svg" width="30"/>
+    <img src="images/react.svg" width="30"/>
+    <img src="images/net.svg" width="30"/>
+    <img src="images/vue.svg" width="30"/>
+    <img src="images/qt.svg" width="30"/>
 </div>
 <h2> Operational </h2>
-<img src="images/pg.svg" width="30"/>
-<img src="images/my.svg" width="30"/>
-<img src="images/jenkins.svg" width="30"/>
-<img src="images/zabbix.svg" width="30" height="30"/>
-<img src="images/ansible.svg" width="30" height="30"/>
+<div style="display: flex; padding: 10px 0">
+    <img src="images/pg.svg" width="30"/>
+    <img src="images/my.svg" width="30"/>
+    <img src="images/jenkins.svg" width="30"/>
+    <img src="images/zabbix.svg" width="30" height="30"/>
+    <img src="images/ansible.svg" width="30" height="30"/>
+</div>
