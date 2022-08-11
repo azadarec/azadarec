@@ -1,5 +1,3 @@
-<h1>:construction: Work in Progress</h1>
- This may take a while. I am exceptionally lazy.
 <h1>
     <img src="images/no.svg" width="20" height="15" />
     Hello There! 
