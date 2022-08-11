@@ -18,19 +18,26 @@ I like to learn and try out new things.
 
 
 <h1>Skills</h1>
-<h2><img src="images/react.svg" width="20"/> React</h2>
-<p>
-Since the beginning of 2019 I code my Frontends mainly in React. It is really fun, once you get the hang of it. I use both Javascript and Typescript, but prefer the latter.
-</p>
+<h2> Languages</h2>
+<img src="images/java.svg" width="30"/>
+<img src="images/cpp.svg" width="30"/>
+<img src="images/cs.svg" width="30"/>
+<img src="images/js.svg" width="30"/>
+<img src="images/ts.svg" width="30"/>
+<img src="images/php.svg" width="30"/>
 
 
 
 
-<h2><img src="images/java.svg" width="20"/> Java</h2>
-<p>
-This is my second most used programming language. Java is simple to read and simple to write and as it was perfect to deepen the knowledge in OOP, it was one of my first languages to learn.
-</p>
-<h2><img src="images/cpp.svg" width="20"/> C++</h2>
+<h2>Frameworks</h2>
+<img src="images/react.svg" width="30"/>
+<img src="images/net.svg" width="30"/>
+<img src="images/vue.svg" width="30"/>
+<img src="images/qt.svg" width="30"/>
 
-The first language I learned and still my favorite! 
-
+<h2> Operational </h2>
+<img src="images/pg.svg" width="30"/>
+<img src="images/my.svg" width="30"/>
+<img src="images/jenkins.svg" width="30"/>
+<img src="images/zabbix.svg" width="30" height="30"/>
+<img src="images/ansible.svg" width="30" height="30"/>
