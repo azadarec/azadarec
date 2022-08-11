@@ -25,7 +25,6 @@ I like to learn and try out new things.
     <img src="images/cs.svg" width="30"/>
     <img src="images/js.svg" width="30"/>
     <img src="images/ts.svg" width="30"/>
-    <img src="images/php.svg" width="30"/>
 </div>
 
 
