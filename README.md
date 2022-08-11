@@ -30,11 +30,12 @@ I like to learn and try out new things.
 
 
 <h2>Frameworks</h2>
+<div style="display: flex; padding: 10px 0">
 <img src="images/react.svg" width="30"/>
 <img src="images/net.svg" width="30"/>
 <img src="images/vue.svg" width="30"/>
 <img src="images/qt.svg" width="30"/>
-
+</div>
 <h2> Operational </h2>
 <img src="images/pg.svg" width="30"/>
 <img src="images/my.svg" width="30"/>
