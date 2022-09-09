@@ -51,7 +51,3 @@
 </div>
 
 There are many more skills which I have collected over the years, but the ones listed are those I use in my daily routine.
-
-
-<h1> Github Stat Card </h1>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=azadarec)](https://github.com/anuraghazra/github-readme-stats)
